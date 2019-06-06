@@ -1,6 +1,6 @@
 # Zomato Platform Data Visualization
 
-##Objective is to analyse, understand and present information about Zomato platform. This analysis is divided into 3 areas i.e.
+## Objective is to analyse, understand and present information about Zomato platform. This analysis is divided into 3 areas i.e.
 
 1. About Zomato presence: 
 (a) In which Countries Zomato has its presence?
